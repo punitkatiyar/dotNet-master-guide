@@ -1,2 +1,5 @@
 # dotNet-master-guide
-C# Master Guide 
+
+https://visualstudio.microsoft.com/
+
+https://learn.microsoft.com/en-us/training/modules/csharp-write-first/
